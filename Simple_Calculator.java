@@ -1,4 +1,4 @@
-// LINK= It is a mini simple calculator project in which we can add, substract,multipy and divide two numbers.
+// LINK= It is a mini simple calculator project in which we can add, substract,multipy and divide two numbers. Concept used is java swings.
 
 
 
